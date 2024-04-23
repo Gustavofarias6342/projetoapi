@@ -13,3 +13,5 @@ Claro! O venv é uma ferramenta em Python que permite criar ambientes virtuais i
   passo 1: abrir o termianl do git bash
   passo 2: inserir os codigos para instalar e ativar o venv respectivamente
   passo 3: python -m venv .venv, source .venv/Scripts/activate
+  passo 1: com o venv ativado insira o comando "python .exe -m pip install --upgrade pip" para atualizar o pip "opcional"
+  passo 2: instale o flask com o comando "pip install flask"
