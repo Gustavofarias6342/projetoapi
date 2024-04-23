@@ -1,3 +1,6 @@
 Python é uma linguagem de programação de alto nível. 
 De propósito geral e com sintaxe simples e legível. 
 É amplamente utilizada em desenvolvimento web, científico e de automação de tarefas."
+Passo 1: passo fazer o download: Passo 1: Acesse o site oficial do Python em https://www.python.org/downloads/. 
+Passo 2: Selecione a versão do Python desejada e clique no botão de download correspondente à sua plataforma (Windows, macOS, ou Linux). 
+Passo 3: Aguarde o download ser concluído.
