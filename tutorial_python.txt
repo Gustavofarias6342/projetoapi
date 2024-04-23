@@ -11,5 +11,5 @@ Claro! O venv é uma ferramenta em Python que permite criar ambientes virtuais i
  Isso é útil para manter as dependências de um projeto separadas de outros, evitando conflitos entre pacotes e facilitando a distribuição do projeto.
   Quando você ativa um ambiente virtual, o Python e todas as bibliotecas instaladas ficam confinadas dentro desse ambiente, o que ajuda a manter a consistência e a organização do desenvolvimento.
   passo 1: abrir o termianl do git bash
-  passo 2: inserir os codigos para ativar o venv
-  passo 3: python -m venv .venv, source .venv/scripts/activate
+  passo 2: inserir os codigos para instalar e ativar o venv respectivamente
+  passo 3: python -m venv .venv, source .venv/Scripts/activate
