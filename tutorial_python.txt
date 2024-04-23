@@ -4,3 +4,6 @@ De propósito geral e com sintaxe simples e legível.
 Passo 1: passo fazer o download: Passo 1: Acesse o site oficial do Python em https://www.python.org/downloads/. 
 Passo 2: Selecione a versão do Python desejada e clique no botão de download correspondente à sua plataforma (Windows, macOS, ou Linux). 
 Passo 3: Aguarde o download ser concluído.
+Após o download ser concluído, execute o instalador baixado. 
+Passo 2: Siga as instruções do instalador para configurar o Python em seu sistema. 
+Passo 3: Verifique a instalação abrindo o terminal (Prompt de Comando no Windows) e digitando 'python --version'."
